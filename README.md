@@ -6,9 +6,31 @@
 
 <blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades-da-aplicação">Funcionalidades da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## :clapper: Preview
+
+<p align="center">
+  <img src=".github/previa.gif" alt="preview" width="300" />
+</p>
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native junto com o TypeScript, utilizando rotas, Async Storage e a Context API.
+
+## Como Rodar
+
+```
+  > git clone https://github.com/mesquini/go-marketplace
+  > cd go-marktplace
+  > yarn
+  > yarn start
+```
 
 ### Utilizando uma fake API
 
@@ -17,7 +39,7 @@ Antes de tudo, para que você tenha os dados para exibir em tela, criamos um arq
 Para isso, deixamos instalado no seu package.json uma dependência chamada `json-server`, e um arquivo chamado `server.json` que contém os dados para uma rota `/products`. Para executar esse servidor você pode executar o seguinte comando:
 
 ```js
-  yarn json-server server.json -p 3333
+  > yarn json-server server.json -p 3333
 ```
 
 ### Funcionalidades da aplicação
@@ -43,10 +65,6 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 - **`Exibir valor total dos itens no carrinho`**: Tanto na página `Dashboard`, tanto na página `Cart` você deve exibir o valor total de todos os itens que estão no seu carrinho.
 
 ### Específicação dos testes
-
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
 
 Para esse desafio, temos os seguintes testes:
 

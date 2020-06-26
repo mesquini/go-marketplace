@@ -2,39 +2,39 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Cadeira Gamer BC7",
+      "image_url": "https://a-static.mlcdn.com.br/618x463/cadeira-gamer-bc7-larger-200kg-black-cyanthunderx3/javalishop/hayamax68841/aba55d9bfe968a3988dbd7c13ad8324a.jpg",
+      "price": 1439
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Cadeira Gamer Mymax Mx8",
+      "image_url": "https://images-submarino.b2w.io/produtos/01/00/item/133551/7/133551703_1GG.jpg",
+      "price": 949
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Gabinete Gamer Cg-04g8 Infinity 4 Atx Led Rgb K-mex",
+      "image_url": "https://img.olx.com.br/images/27/272006020488566.jpg",
+      "price": 399
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Cadeira Gamer Pichau Vienna Rgb Preta",
+      "image_url": "https://img.vigiadepreco.com.br/4a/4c9/34f5/73785/4a4c934f573785a756a1b6a42e935dcc9eafcd0e59088bd29ebc08af8f4231be.jpg",
+      "price": 959.9
     },
     {
       "id": "122345",
-      "title": "Nome do produto 05",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Headset Gamer RGB Vickers Preto FORTREK",
+      "image_url": "https://awstatic-5754.kxcdn.com/CZ-nGZHzq0uHvIo6nMdVtlLDtYg=/0x0/loja/londritech.com.br/prodimg/75/0062560001586333146.jpeg",
+      "price": 157
     },
     {
       "id": "223456",
-      "title": "Nome do produto 06",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Placa de Vídeo MSI GeForce RTX 2070 Super Gaming X, RGB, 8GB GDDR6",
+      "image_url": "https://img.terabyteshop.com.br/produto/g/placa-de-video-msi-geforce-rtx-2070-super-gaming-x-8gb-gddr6-256bit-912-v373-299_92610.png",
+      "price": 3559
     }
   ]
 }
